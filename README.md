@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Umesh 👋</h1>
 
 <p align="center">
-  Software Engineer & Graduate Research Assistant · M.S. Computer Science (AI/ML), University of Toledo
+  Software Engineer · M.S. Computer Science (AI/ML), University of Toledo
 </p>
 
 <p align="center">
