@@ -43,5 +43,15 @@ A lightweight YouTube playlist controller built for ad-free mobile playback.
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umesh0518&show_icons=true&theme=default" alt="Umesh's GitHub stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=umesh0518"
+    alt="Umesh's GitHub contribution streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=umesh0518&layout=compact&hide_border=true"
+    alt="Umesh's most used languages"
+  />
 </p>
