@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-Certified%20Developer%20Associate-orange?logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GPA-4.0-blue" />
-  <img src="https://img.shields.io/badge/Location-Toledo%2C%20OH-lightgrey" />
+  <img src="https://img.shields.io/badge/Location-Dallas%2C%20TX-lightgrey" />
 </p>
 
 ---
